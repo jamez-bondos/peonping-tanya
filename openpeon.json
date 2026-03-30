@@ -50,7 +50,7 @@
         { "file": "sounds/how-about-some-action.mp3", "label": "How about some action?" }
       ]
     },
-    "user.spam": {
+    "resource.limit": {
       "sounds": [
         { "file": "sounds/where-s-the-party.mp3", "label": "Where's the party?" }
       ]
