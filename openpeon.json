@@ -1,0 +1,58 @@
+{
+  "cesp_version": "1.0",
+  "name": "tanya_ra2",
+  "display_name": "Tanya (Red Alert 2)",
+  "version": "1.0.0",
+  "description": "Tanya voice lines from Command & Conquer: Red Alert 2.",
+  "author": {
+    "name": "Jamez Bondos",
+    "github": "jamez-bondos"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/locked-and-loaded.mp3", "label": "Locked and loaded" },
+        { "file": "sounds/let-s-go.mp3", "label": "Let's go!" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/i-m-on-it.mp3", "label": "I'm on it!" },
+        { "file": "sounds/anytime-boss.mp3", "label": "Anytime, boss" },
+        { "file": "sounds/you-got-an-order.mp3", "label": "You got an order" },
+        { "file": "sounds/moving-out-boss.mp3", "label": "Moving out, boss" }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        { "file": "sounds/on-my-way.mp3", "label": "On my way" },
+        { "file": "sounds/i-m-there.mp3", "label": "I'm there" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/yeah-baby.mp3", "label": "Yeah, baby!" },
+        { "file": "sounds/cha-ching.mp3", "label": "Cha-ching!" },
+        { "file": "sounds/shake-it-baby.mp3", "label": "Shake it, baby!" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/tanya-laugh.mp3", "label": "Hahaha!" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/show-me-the-way.mp3", "label": "Show me the way" },
+        { "file": "sounds/how-about-some-action.mp3", "label": "How about some action?" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/where-s-the-party.mp3", "label": "Where's the party?" }
+      ]
+    }
+  }
+}
