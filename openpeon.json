@@ -10,6 +10,7 @@
   },
   "license": "CC-BY-NC-4.0",
   "language": "en",
+  "tags": ["gaming", "red-alert", "cnc", "rts", "tanya"],
   "categories": {
     "session.start": {
       "sounds": [
